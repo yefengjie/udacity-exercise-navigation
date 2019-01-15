@@ -21,7 +21,10 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
 ### Getting Started
-
-1、clone this project to your computer
-
-2、flow the [Navigation.ipynb](https://github.com/yefengjie/udacity-exercise-navigation/blob/master/Navigation.ipynb) file to train the agent
+- clone this project to your computer
+- download the unity environment. You need only select the environment that matches your operating system  
+  - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+  - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+  - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+  - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+- flow the [Navigation.ipynb](https://github.com/yefengjie/udacity-exercise-navigation/blob/master/Navigation.ipynb) file to train the agent
