@@ -6,7 +6,7 @@
 
 ### Introduction
 
-Follow this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
+Follow this project, you will train an agent to navigate (and collect bananas!) in a large, square world. What's more, the agent is trained is a discrete action space.
 
 ![Trained Agent][image1]
 
